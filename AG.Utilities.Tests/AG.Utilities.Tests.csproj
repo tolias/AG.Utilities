@@ -61,10 +61,6 @@
     <Compile Include="StringExtensionsTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AG.Utilities.Net4\AG.Utilities.Net4.csproj">
-      <Project>{d492e377-a65c-4046-ae6f-7c2a08fa5460}</Project>
-      <Name>AG.Utilities.Net4</Name>
-    </ProjectReference>
     <ProjectReference Include="..\AG.Utilities\AG.Utilities.csproj">
       <Project>{5c960107-46ce-4f11-9cd4-125fed7773c7}</Project>
       <Name>AG.Utilities</Name>
