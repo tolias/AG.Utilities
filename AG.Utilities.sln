@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AG.Utilities", "AG.Utilities\AG.Utilities.csproj", "{5C960107-46CE-4F11-9CD4-125FED7773C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AG.Utilities.Net4", "AG.Utilities.Net4\AG.Utilities.Net4.csproj", "{D492E377-A65C-4046-AE6F-7C2A08FA5460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AG.Utilities.Tests", "AG.Utilities.Tests\AG.Utilities.Tests.csproj", "{D8E61002-6B8D-4946-B0D3-D0C05043D54E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AG.Utilities.NetCore", "AG.Utilities.NetCore\AG.Utilities.NetCore.csproj", "{CA312531-7723-4C30-AC20-DECD2638BA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C960107-46CE-4F11-9CD4-125FED7773C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C960107-46CE-4F11-9CD4-125FED7773C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C960107-46CE-4F11-9CD4-125FED7773C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C960107-46CE-4F11-9CD4-125FED7773C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D492E377-A65C-4046-AE6F-7C2A08FA5460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D492E377-A65C-4046-AE6F-7C2A08FA5460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D492E377-A65C-4046-AE6F-7C2A08FA5460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D492E377-A65C-4046-AE6F-7C2A08FA5460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E61002-6B8D-4946-B0D3-D0C05043D54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E61002-6B8D-4946-B0D3-D0C05043D54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E61002-6B8D-4946-B0D3-D0C05043D54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E61002-6B8D-4946-B0D3-D0C05043D54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA312531-7723-4C30-AC20-DECD2638BA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA312531-7723-4C30-AC20-DECD2638BA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA312531-7723-4C30-AC20-DECD2638BA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA312531-7723-4C30-AC20-DECD2638BA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://anatoliig.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AG.Utilities\\AG.Utilities.csproj
+		SccProjectName1 = AG.Utilities
+		SccLocalPath1 = AG.Utilities
+		SccProjectUniqueName2 = AG.Utilities.Net4\\AG.Utilities.Net4.csproj
+		SccProjectName2 = AG.Utilities.Net4
+		SccLocalPath2 = AG.Utilities.Net4
+		SccProjectUniqueName3 = AG.Utilities.Tests\\AG.Utilities.Tests.csproj
+		SccProjectName3 = AG.Utilities.Tests
+		SccLocalPath3 = AG.Utilities.Tests
+		SccProjectUniqueName4 = AG.Utilities.NetCore\\AG.Utilities.NetCore.csproj
+		SccProjectName4 = AG.Utilities.NetCore
+		SccLocalPath4 = AG.Utilities.NetCore
+	EndGlobalSection
+EndGlobal
