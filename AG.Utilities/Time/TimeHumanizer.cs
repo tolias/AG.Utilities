@@ -61,7 +61,7 @@ namespace AG.Utilities.Time
             var daysOnly = seconds / secondsInDay;
             var secondsWithoutDays = seconds - (daysOnly * secondsInDay);
             var hoursOnly = secondsWithoutDays / secondsInHour;
-            var secondsWithoutHours = seconds - (hoursOnly * secondsInHour);
+            var secondsWithoutHours = secondsWithoutDays - (hoursOnly * secondsInHour);
             var minutesOnly = secondsWithoutHours / secondsInMinute;
             var secondsOnly = secondsWithoutHours - (minutesOnly * secondsInMinute);
 

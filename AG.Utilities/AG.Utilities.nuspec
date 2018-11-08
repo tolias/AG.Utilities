@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>AG.Utilities</id>
-    <version>1.0.0.1</version>
+    <version>1.0.0.2</version>
     <title>AG.Utilities</title>
     <authors>Anatolii Humennyi</authors>
     <owners>Anatolii Humennyi</owners>
@@ -10,7 +10,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Miscellaneous .NET helpers for common needs</description>
     <releaseNotes>Deployed first nuget package</releaseNotes>
-    <copyright>Copyright © AG 2015-2018</copyright>
+    <copyright>Copyright Â© AG 2015-2018</copyright>
     <tags>Utilities Helpers Extensions</tags>
   </metadata>
 </package>
