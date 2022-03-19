@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AG.Utilities
+﻿namespace AG.Utilities
 {
     public static class ByteUtilities
     {
